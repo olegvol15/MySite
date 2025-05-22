@@ -1,0 +1,15 @@
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+
+p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: blue;
+    color: #ffff;
+}
